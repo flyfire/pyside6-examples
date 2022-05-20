@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/background.png</file>
+    <file>images/banner.png</file>
+    <file>images/watermark1.png</file>
+</qresource>
+</RCC>
